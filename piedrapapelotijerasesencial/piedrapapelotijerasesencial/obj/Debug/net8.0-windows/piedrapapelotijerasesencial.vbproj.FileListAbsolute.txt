@@ -1,0 +1,34 @@
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.exe
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.deps.json
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.runtimeconfig.json
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.dll
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.pdb
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.Form1.resources
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.Resources.resources
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.vbproj.GenerateResource.cache
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.AssemblyInfoInputs.cache
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.AssemblyInfo.vb
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.vbproj.CoreCompileInputs.cache
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.dll
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\refint\piedrapapelotijerasesencial.dll
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.pdb
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.genruntimeconfig.cache
+C:\Users\samug\Desktop\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\ref\piedrapapelotijerasesencial.dll
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.exe
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.deps.json
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.runtimeconfig.json
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.dll
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\bin\Debug\net8.0-windows\piedrapapelotijerasesencial.pdb
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.Form1.resources
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.Resources.resources
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.vbproj.GenerateResource.cache
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.AssemblyInfoInputs.cache
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.AssemblyInfo.vb
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.vbproj.CoreCompileInputs.cache
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.dll
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\refint\piedrapapelotijerasesencial.dll
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.pdb
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\piedrapapelotijerasesencial.genruntimeconfig.cache
+C:\Users\samug\Documents\visual code basic\piedrapapelotijerasesencial\piedrapapelotijerasesencial\obj\Debug\net8.0-windows\ref\piedrapapelotijerasesencial.dll
